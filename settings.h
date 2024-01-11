@@ -42,7 +42,7 @@ enum TxLockModes_t {
 //	F_LOCK_438,
 	F_LOCK_ALL,	// disable TX on all frequencies
 //	F_LOCK_NONE, // enable TX on all frequencies
-//	F_LOCK_LEN
+	F_LOCK_LEN
 };
 
 enum {
